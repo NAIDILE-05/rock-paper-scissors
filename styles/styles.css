@@ -102,28 +102,6 @@ header .title {
   letter-spacing: 0.5px;
 }
 
-.result button{
-    padding: 0.5rem 1.5rem;
-    background-color: var(--darkblue-color);
-    color: var(--white-color);
-    width: 30%;
-    font-size: 1.3rem;
-    font-weight: bold;
-    cursor:pointer
-    text-align : center;
-    transition:all 0.2;
-}
-
-.result button:hover{
-    transform: translatev(5px);
-}
-
-.result button:hover:active{
-    transform:scale(5px);
-}
-
-
-
 #user_choice,
 #computer_choice {
   font-weight: 400;
