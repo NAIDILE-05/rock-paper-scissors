@@ -30,3 +30,11 @@ body{
 
     
 }
+
+main{
+    min-height: 35rem;
+    min-width: 35rem;
+    background-color: var(--white-color);
+    border-radius: 1rem;
+    box-shadow: 3px 3px 3px 4px rgba(0,0,0,0.75);
+}
