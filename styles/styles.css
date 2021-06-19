@@ -13,6 +13,7 @@ html {
 
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: #2b1331;
-background-image: linear-gradient(315deg, #2b1331 0%, #b9abcf 74%);
+    background-color: #48dbfb;
+    background-image: linear-gradient(315deg, #48dbfb 0%, #d3d3d3 74%);
+    
 }
